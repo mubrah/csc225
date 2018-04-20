@@ -1,0 +1,14 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	BEGIN             4000
+//	LOOP              4009
+//	ISR               400B
+//	PROMPT            4012
+//	NL                402B
+//	KBSR              402C
+//	KBSRIE            402D
+//	KBDR              402E
+//	KBIV              402F
+

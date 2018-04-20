@@ -1,0 +1,9 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	PC_SAVE           3305
+//	KBSR              3306
+//	KBSRIE            3307
+//	UP2               3308
+

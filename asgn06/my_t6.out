@@ -1,0 +1,514 @@
+
+Welcome to the stack program.
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Stack: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Stack: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Stack: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Stack: 30 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Stack: 30 30 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Stack: 30 30 31 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Stack: 30 30 31 32 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Stack: 30 30 31 32 33 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Stack: 30 30 31 32 33 34 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Stack: 30 30 31 32 33 34 35 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Stack: 30 30 31 32 33 34 35 36 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Stack: 30 30 31 32 33 34 35 36 37 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Stack: 30 30 31 32 33 34 35 36 37 38 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Stack: 30 30 31 32 33 34 35 36 37 38 39 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Overflow!!!Stack: 30 30 31 32 33 34 35 36 37 38 39 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Overflow!!!Stack: 30 30 31 32 33 34 35 36 37 38 39 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Overflow!!!Stack: 30 30 31 32 33 34 35 36 37 38 39 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Stack: 0 0 1 2 3 4 5 6 7 8 9 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Stack: 48 48 49 50 51 52 53 54 55 56 57 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Stack: 30 30 31 32 33 34 35 36 37 38 39 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Stack: 0 0 1 2 3 4 5 6 7 8 9 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Stack: 30 30 31 32 33 34 35 36 37 38 39 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Stack: 48 48 49 50 51 52 53 54 55 56 57 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Overflow!!!Stack: 48 48 49 50 51 52 53 54 55 56 57 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Overflow!!!Stack: 48 48 49 50 51 52 53 54 55 56 57 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Overflow!!!Stack: 48 48 49 50 51 52 53 54 55 56 57 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Overflow!!!Stack: 48 48 49 50 51 52 53 54 55 56 57 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Overflow!!!Stack: 48 48 49 50 51 52 53 54 55 56 57 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Overflow!!!Stack: 48 48 49 50 51 52 53 54 55 56 57 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Overflow!!!Stack: 48 48 49 50 51 52 53 54 55 56 57 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Overflow!!!Stack: 48 48 49 50 51 52 53 54 55 56 57 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Overflow!!!Stack: 48 48 49 50 51 52 53 54 55 56 57 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Overflow!!!Stack: 48 48 49 50 51 52 53 54 55 56 57 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Overflow!!!Stack: 48 48 49 50 51 52 53 54 55 56 57 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Overflow!!!Stack: 48 48 49 50 51 52 53 54 55 56 57 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: What number? Overflow!!!Stack: 48 48 49 50 51 52 53 54 55 56 57 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Stack: 0 0 1 2 3 4 5 6 7 8 9 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Stack: 30 30 31 32 33 34 35 36 37 38 39 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Stack: 48 48 49 50 51 52 53 54 55 56 57 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Stack: 0 0 1 2 3 4 5 6 7 8 9 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Stack: 30 30 31 32 33 34 35 36 37 38 39 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Stack: 48 48 49 50 51 52 53 54 55 56 57 
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Underflow!!!
+
+Enter option: 
+
+Enter option: 
+
+Enter option: Goodbye!

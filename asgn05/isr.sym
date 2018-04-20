@@ -1,0 +1,11 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	PC_SAVE           3506
+//	KBSRIE            3507
+//	KBDR              3508
+//	KBSR              3509
+//	CLEAR             350A
+//	BEGIN             350B
+

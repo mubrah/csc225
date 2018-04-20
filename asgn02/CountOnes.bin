@@ -1,0 +1,31 @@
+; Evan Zhang
+; CountOnes.bin
+
+; 1) What is the total calculated by adding the 10 numbers? x7FFF
+; 2) Describe how R2 is used by the program. (What does it represent?)
+;    R2 represents the addresses of the 10 numbers
+; 3) Why is R2 incremented in the instruction at x3005? 
+;    R2 increments to get the address of the next of the 10 numbers.
+; 4) Why is the value 10 loaded into R4? 
+;    R4 acts at counter to tell the program when to stop
+
+; R0 - counter
+; R1 - data at x3100
+; R2 - mask
+; R3 - R7 - nothing
+
+
+
+0011 0000 0000 0000         ; Set PC at x3000
+0101 000 000 1 00000        ; Clear R0
+0010 001 011 1 11110        ; get data from address x3100 and put in R1
+0001 010 000  1 00001       ; mask set in R2
+0101 110  001 000 010       ; AND R1 and R2
+0000 010 000000001          ; Branch if equal to 0
+0001 000 000 1 00001        ; add 1 to R0 if there is a 1
+0001 010 010 000 010        ; shift mask to left R2
+0000 101 111111011          ; if mask is not 0 go back to 3003
+0011 000  011 1 11000       ; store in x3101
+1111 0000 00100101          ; halt
+
+

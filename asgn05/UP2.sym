@@ -1,0 +1,8 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	RESET             3401
+//	LOOP              3402
+//	STAR              3406
+

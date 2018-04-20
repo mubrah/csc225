@@ -1,0 +1,20 @@
+; Evan Zhang
+; Reverse.bin
+; R0 - holds reversed value
+; R1 - gets value from address x3100
+; R2 - mask
+
+
+0011 0000 0000 0000          ; Set PC at x3000
+0101 000 000 1 00000         ; Clear R0
+0010 001 011 1 11110         ; get data from address 3100 and put in R1
+0001 010 000  1 00001        ; mask set in R2
+0001 000 000 000 000         ; shift R0 to the left
+0101 110  001 000 010        ; AND R1 and R2
+0000 010 000000001           ; Branch if equal to 0
+0001 000 000 1 00001         ; add 1 if there is a 1
+0001 010 010 000 010         ; shift mask to left
+0000 101 111111010           ; if mask is not 0 go back to 3003
+0011 000  011 1 10111        ; store in 3101
+1111 0000 00100101           ; halt
+

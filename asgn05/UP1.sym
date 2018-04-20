@@ -1,0 +1,12 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	LOOP              3005
+//	END_MSG           3012
+//	TRAP_26           302F
+//	INTERUP           3030
+//	STAT_26           3031
+//	ISR               3032
+//	STACK             3033
+

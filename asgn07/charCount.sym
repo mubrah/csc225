@@ -1,0 +1,10 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	ELSE              3312
+//	ZERO              3318
+//	RES               3319
+//	CHAR_COUNT        3326
+//	ISrunning         3327
+
